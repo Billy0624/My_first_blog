@@ -1,0 +1,15 @@
+{
+  "hash": "d40ed0f3c3731698067317a72ac309aa",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Next post\"\nauthor: \"Bilguun Boldbaatar\"\ndate: \"2024-08-18\"\ncategories: [forex]\n---\n\n\nI am trying new blog.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n3500 * 12\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 42000\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

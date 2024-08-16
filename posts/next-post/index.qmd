@@ -1,0 +1,12 @@
+---
+title: "Next post"
+author: "Bilguun Boldbaatar"
+date: "2024-08-18"
+categories: [forex]
+---
+
+I am trying new blog.
+
+```{r}
+3500 * 12
+```
